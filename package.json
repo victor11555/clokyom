@@ -1,0 +1,6 @@
+{
+  "name": "clokyom",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
