@@ -1,1 +1,0 @@
-# Clokyom Mobile application
